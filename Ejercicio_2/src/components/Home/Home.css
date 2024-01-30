@@ -1,0 +1,12 @@
+.Home {
+  border-style: solid;
+  margin-top: .625rem;
+  padding: 0 .625rem 0 .625rem;
+  border-radius: .3125rem;
+  background-color: rgb(194, 194, 244);
+  color: rgb(59, 59, 59);
+}
+
+.Home-section {
+  font-weight: 600;
+}

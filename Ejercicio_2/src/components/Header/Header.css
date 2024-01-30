@@ -1,0 +1,12 @@
+.Header {
+  display: flex;
+  justify-content:flex-start;
+  min-width: auto;
+  border-bottom-style: outset;
+}
+
+.Header-p {
+  margin-right: 5%;
+  text-shadow: .0625rem .0625rem gray;
+  font-size: large;
+}
